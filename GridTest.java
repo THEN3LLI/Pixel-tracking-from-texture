@@ -1,4 +1,4 @@
-package dev.then3lli.gamestate;
+package dev.then3lli.grid;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
